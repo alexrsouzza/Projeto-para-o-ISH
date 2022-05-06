@@ -27,7 +27,9 @@ Requisitos não funcionais:
          * Banco de Dados PostGres
          
 Requisitos técnicos:
-         * Windows 10 ou superior (64bits)
+         * Processador 64bits
+         * Windows 10 ou superior
+         * Mac OS 10.12.6 ou superior
          * 4gb de RAM
          * Chrome Versão 100 ou superior
          
