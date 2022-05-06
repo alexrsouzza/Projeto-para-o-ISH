@@ -15,4 +15,4 @@ O idioma de escrita será Ingês
 
 Funcionalidades do sistema: Digitalizar documentos, Pesquisar documentos digitalizados, Atribuir funções no sistema, Cadastro de usuários, Atribuir perfis, Auditoria  de documentos, Carregamento do documento e extração automatica do texto.
 
-O sistema deverá seguir o que está descrito nas Regra de Négocio do projeto, em documento inserido neste GitHub.
+O sistema deverá seguir o que está descrito nas Regra de Négocio do projeto, em documento de nome "Regra de Negocio PMSE" inserido neste repositório.
