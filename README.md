@@ -22,8 +22,6 @@ Requisitos não funcionais:
          * Linguagem JAVA
          * Sistema Chrome
          * Idioma de escrita Inglês
-         * Auditoria dos documentos e alterações
-         * Gerenciamento de acessos aos documentos
          * Banco de Dados PostGres
          
 Requisitos técnicos:
